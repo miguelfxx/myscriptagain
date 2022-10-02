@@ -417,9 +417,7 @@ local Properties = {
 		"TextXAlignment",
 		"TextYAlignment"
 	},
-	
-	
-       ["BlockMesh"] = {
+         ["BlockMesh"] = {
 		"Offset", "Scale", "VertexColor"
 	}
 }
