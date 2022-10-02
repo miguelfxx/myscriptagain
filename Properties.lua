@@ -420,9 +420,7 @@ local Properties = {
 	
 	
        ["BlockMesh"] = {
-		"Scale",
-		"Offset",
-		"VertexColor"
+		"Offset", "Scale", "VertexColor"
 	}
 }
 
