@@ -416,6 +416,13 @@ local Properties = {
 		"TextWrapped",
 		"TextXAlignment",
 		"TextYAlignment"
+	},
+	
+	
+       ["BlockMesh"] = {
+		"Scale",
+		"Offset",
+		"VertexColor"
 	}
 }
 
